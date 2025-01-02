@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Ada Chen (Ruiying Chen)
 
-<!--
-**ruiying9/ruiying9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Exploring the world of data to drive impactful decisions!**
 
-Here are some ideas to get you started:
+As a Business Analyst and Data Analyst, I am passionate about transforming raw data into actionable insights. My journey spans analytics, machine learning, and storytelling, all aimed at solving real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**
+- **MS in Business Analytics (STEM)**  
+  UCLA Anderson School of Management, Class of 12/2025
+- **BS in Finance, Minor in Computer Science**  
+  University of Illinois Urbana-Champaign, GPA: 3.92/4.00
+
+💻 **Skills**
+- **Languages:** Python (Numpy, Pandas, Scikit-learn, TensorFlow), SQL, R, Java, C, C++  
+- **Tools:** Tableau, Power BI, AWS, Databricks, GCP, Azure, Excel  
+- **Expertise:** Machine Learning, NLP, Data Visualization, Time Series, Statistical Analysis
+
+📈 **What I’m pursuing**
+- Building predictive models to optimize business strategies.
+- Exploring innovative approaches to data visualization.
+
+📫 **Let’s Connect!**
+- **Email:** If you would like to chat, please feel free to reach out via email: eumin.zoh.2023@anderson.ucla.edu
+
+✨ “Empowering businesses through data-driven insights while fostering innovation.”
