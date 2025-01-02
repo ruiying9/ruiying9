@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ada Chen (Ruiying Chen)
+# 👋 Hi, I’m Ruiying(Ada) Chen
 
 🌟 **Exploring the world of data to drive impactful decisions!**
 
