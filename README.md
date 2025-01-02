@@ -20,6 +20,6 @@ As a Business Analyst and Data Analyst, I am passionate about transforming raw d
 - Exploring innovative approaches to data visualization.
 
 📫 **Let’s Connect!**
-- **Email:** If you would like to chat, please feel free to reach out via email: eumin.zoh.2023@anderson.ucla.edu
+- **Email:** If you would like to chat, please feel free to reach out via email: ruiying9@ucla.edu
 
 ✨ “Empowering businesses through data-driven insights while fostering innovation.”
